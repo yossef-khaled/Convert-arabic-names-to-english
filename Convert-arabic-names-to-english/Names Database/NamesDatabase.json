@@ -1,0 +1,128 @@
+{
+    "names": [
+        {
+            "id": 0,
+            "translatedName": "Ahmed",
+            "nameProbabilities": 
+            [
+                "أحمد",
+                "احمد",
+                "تحمد",
+                "اجمد",
+                "اخمد",
+                "أخمد",
+                "أجمد"
+            ]
+        },
+        {
+            "id": 1,
+            "translatedName": "Abdulrahman",
+            "nameProbabilities": 
+            [
+                "عبدالرحمن",
+                "غبدالرحمن",
+                "عبدألرحمن",
+                "عبدالرجمن",
+                "عبدالرخمن"
+            ]
+        },
+        {
+            "id": 2,
+            "translatedName": "Abdullah",
+            "nameProbabilities": 
+            [
+                "عبدالله",
+                "عبداللة",
+                "عبدألله",
+                "عبدأللة",
+                "غبدالله",
+                "عبدالللة",
+                "عبداللله"
+            ]
+        },
+        {
+            "id": 3,
+            "translatedName": "Ali",
+            "nameProbabilities": 
+            [
+                "علي",
+                "على",
+                "غلي",
+                "غلى"
+            ]
+        },
+        {
+            "id": 4,
+            "translatedName": "Mahmoud",
+            "nameProbabilities": 
+            [
+                "محمود",
+                "مخمود",
+                "مجمود"
+            ]
+        },
+        {
+            "id": 5,
+            "translatedName": "Kasem",
+            "nameProbabilities": 
+            [
+                "قاسم",
+                "فاسم",
+                "قلسم",
+                "فلسم",
+                "قاسن",
+                "فاسم"
+            ]
+        },
+        {
+            "id": 6,
+            "translatedName": "Khaled",
+            "nameProbabilities": 
+            [
+                "خالد",
+                "جالد",
+                "حالد",
+                "خلاد",
+                "حلاد",
+                "جلاد"
+            ]
+        },
+        {
+            "id": 7,
+            "translatedName": "Saleh",
+            "nameProbabilities": 
+            [
+                "صالح",
+                "ضالح",
+                "صالج",
+                "صالخ"
+            ]
+        },
+        {
+            "id": 8,
+            "translatedName": "Yossef",
+            "nameProbabilities": 
+            [
+                "يوسف",
+                "بوسف",
+                "يوشف",
+                "يوسق",
+                "يؤسف"
+            ]
+        },
+        {
+            "id": 9,
+            "translatedName": "Fuad",
+            "nameProbabilities": 
+            [
+                "فؤاد",
+                "فواد",
+                "قؤاد",
+                "قواد",
+                "فوأد",
+                "فؤأد",
+                "قوأد"
+            ]
+        }
+    ]
+}
